@@ -1,0 +1,19 @@
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\RectanglesDrawing.csprojAssemblyReference.cache
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.Properties.Resources.resources
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\RectanglesDrawing.csproj.GenerateResource.cache
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.exe
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.pdb
+C:\Ина\Projects c#\UprTuFormi\bin\Debug\UprTuFormi.exe.config
+C:\Ина\Projects c#\UprTuFormi\bin\Debug\UprTuFormi.exe
+C:\Ина\Projects c#\UprTuFormi\bin\Debug\UprTuFormi.pdb
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\RectanglesDrawing.Scene.resources
+D:\Ина\RectanglesDrawing\RectanglesDrawing\bin\Debug\UprTuFormi.exe.config
+D:\Ина\RectanglesDrawing\RectanglesDrawing\bin\Debug\UprTuFormi.exe
+D:\Ина\RectanglesDrawing\RectanglesDrawing\bin\Debug\UprTuFormi.pdb
+D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\RectanglesDrawing.csprojAssemblyReference.cache
+D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\RectanglesDrawing.Scene.resources
+D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\UprTuFormi.Properties.Resources.resources
+D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\RectanglesDrawing.csproj.GenerateResource.cache
+D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\RectanglesDrawing.csproj.CoreCompileInputs.cache
+D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\UprTuFormi.exe
+D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\UprTuFormi.pdb

@@ -1,0 +1,18 @@
+C:\Users\Acer\source\repos\UprTuFormi\bin\Debug\UprTuFormi.exe.config
+C:\Users\Acer\source\repos\UprTuFormi\bin\Debug\UprTuFormi.exe
+C:\Users\Acer\source\repos\UprTuFormi\bin\Debug\UprTuFormi.pdb
+C:\Users\Acer\source\repos\UprTuFormi\obj\Debug\UprTuFormi.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\UprTuFormi\obj\Debug\UprTuFormi.Scene.resources
+C:\Users\Acer\source\repos\UprTuFormi\obj\Debug\UprTuFormi.Properties.Resources.resources
+C:\Users\Acer\source\repos\UprTuFormi\obj\Debug\UprTuFormi.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\UprTuFormi\obj\Debug\UprTuFormi.exe
+C:\Users\Acer\source\repos\UprTuFormi\obj\Debug\UprTuFormi.pdb
+C:\Ина\Projects c#\UprTuFormi\bin\Debug\UprTuFormi.exe.config
+C:\Ина\Projects c#\UprTuFormi\bin\Debug\UprTuFormi.exe
+C:\Ина\Projects c#\UprTuFormi\bin\Debug\UprTuFormi.pdb
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.csprojAssemblyReference.cache
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.Scene.resources
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.Properties.Resources.resources
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.csproj.GenerateResource.cache
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.exe
+C:\Ина\Projects c#\UprTuFormi\obj\Debug\UprTuFormi.pdb
