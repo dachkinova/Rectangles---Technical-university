@@ -17,3 +17,13 @@ D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\RectanglesDrawing.csproj
 D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\RectanglesDrawing.csproj.CoreCompileInputs.cache
 D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\UprTuFormi.exe
 D:\Ина\RectanglesDrawing\RectanglesDrawing\obj\Debug\UprTuFormi.pdb
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\bin\Debug\UprTuFormi.exe.config
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\bin\Debug\UprTuFormi.exe
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\bin\Debug\UprTuFormi.pdb
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\obj\Debug\RectanglesDrawing.csprojAssemblyReference.cache
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\obj\Debug\RectanglesDrawing.Scene.resources
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\obj\Debug\UprTuFormi.Properties.Resources.resources
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\obj\Debug\RectanglesDrawing.csproj.GenerateResource.cache
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\obj\Debug\RectanglesDrawing.csproj.CoreCompileInputs.cache
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\obj\Debug\UprTuFormi.exe
+D:\Ина\RectanglesDrawing\Rectangles---Technical-university\obj\Debug\UprTuFormi.pdb
